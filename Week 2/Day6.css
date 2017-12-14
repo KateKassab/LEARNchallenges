@@ -1,0 +1,14 @@
+#Kate {
+  width:600px; height: 600px;
+  border: 2px solid black;
+  float: left;
+  background-color: #c3dfad;
+
+}
+
+#Partner {
+  width: 600px; height: 600px;
+  border: 2px solid black;
+  float: right;
+  background-color: gray;
+}

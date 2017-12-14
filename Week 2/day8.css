@@ -1,0 +1,11 @@
+h1 {
+  font-size: 40px;
+  font-family: helvetica;
+  color: black;
+  background-color: #eecbad;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  color: #8b4c39;
+}
